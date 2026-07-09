@@ -17,5 +17,5 @@ List of completed problems:
  Reflection:
  I learned how to apply some basic drafting using algorithms, pseudocodes, and flowcharts with only less guide. They help with building the foundation of your program, and the process.
 
- GitHub Repo Link:
+ GitHub Repo Link: https://github.com/Quebada-1CPE-A/cpp102-week3-batch02-quebada
     
