@@ -1,0 +1,20 @@
+    START
+    FOR item 1:
+        INPUT price1
+        INPUT quantity2
+
+    FOR item 2:
+        INPUT price2
+        INPUT quantity2
+    
+    FOR item 3:
+        INPUT price3
+        INPUT quantity3
+
+    PROCESS bill1 = price1 * quantity1
+    PROCESS bill2 = price2 * quantity2
+    PROCESS bill1 = price3 * quantity3
+
+    PROCESS totalbill = bill1 + bill2 + bill3
+    DISPLAY totalbill
+    END

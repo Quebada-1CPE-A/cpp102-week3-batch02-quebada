@@ -1,0 +1,7 @@
+    START
+    INPUT daily
+    INPUT days
+    INPUT bonus
+    PROCESS totalweeklyallowance = (daily * days) + bonus
+    DISPLAY totalweeklyallowance
+    END

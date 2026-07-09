@@ -1,0 +1,8 @@
+    START
+    INPUT totalpurc
+    IF totalpurc >= 1000:
+        DISPLAY "Eligible for Discount"
+    ELSE:
+        DISPLAY "Not Eligible for Discount"
+    END IF
+    END

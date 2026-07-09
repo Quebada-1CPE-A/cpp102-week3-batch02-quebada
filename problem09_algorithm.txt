@@ -1,0 +1,7 @@
+Step 1: Start.
+Step 2: Ask the user to enter their account balance. Name it as "accntbal".
+Step 3: If accntbal > 0, display "Positive Balance."
+Step 4: If accntbal = 0, display "Zero Balance."
+Step 5: If accntbal < 0, display "Negative Balance."
+Step 6: End if.
+Step 7: End.

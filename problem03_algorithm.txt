@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter the notebook price. Name it as "nbprice".
+Step 3: Ask the user to enter the quantity of notebooks. Name it as "nbquantity".
+Step 4: To get itemtotal, itemtotal = nbprice * nbquantity.
+Step 5: Display itemtotal.
+Step 6: End.

@@ -1,0 +1,6 @@
+    START
+    INPUT weeklybudget
+    INPUT totalexpenses
+    PROCESS remainingbalance = weekbudg - totalxpns
+    DISPLAY remainingbalance
+    END

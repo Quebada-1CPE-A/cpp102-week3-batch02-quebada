@@ -1,0 +1,7 @@
+Step 1: Start.
+Step 2: Ask the user to enter their daily allowance. Name it as "daily".
+Step 3: Ask the user to enter the number of days. Name it as "days".
+Step 4: Ask the user to enter the chore bonus. Name it as "bonus".
+Step 5: Compute totalweeklyallowance = (daily * days) + bonus
+Step 6: Display totalweeklyallowance.
+Step 7: End.

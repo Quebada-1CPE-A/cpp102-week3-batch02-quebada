@@ -1,0 +1,17 @@
+    START
+    FOR attendance:
+        INPUT att
+
+    FOR quiz average:
+        INPUT quizave
+    
+    FOR recitation:
+        INPUT recite
+
+    PROCESS attweight = att * 0.2
+    PROCESS quizaveweight = quizave * 0.3
+    PROCESS recweight = recite * 0.5
+
+    PROCESS totalperfscore = attweight + quizaveweight + recweight
+    DISPLAY totalperfscore
+    END

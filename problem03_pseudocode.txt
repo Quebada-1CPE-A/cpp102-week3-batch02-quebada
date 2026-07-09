@@ -1,0 +1,6 @@
+    START
+    INPUT nbprice
+    INPUT nbquantity
+    PROCESS itemtotal = nbprice * nbquantity
+    DISPLAY itemtotal
+    END

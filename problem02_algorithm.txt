@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter a base measurement. Name it as "base".
+Step 3: Ask the user to enter a height measurement. Name it as "height".
+Step 4: To compute the area, area = base * height.
+Step 5: Display the result.
+Step 6: End.

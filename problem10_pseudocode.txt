@@ -1,0 +1,8 @@
+    START
+    INPUT rafnum
+    IF rafnum divisible by 2:
+        DISPLAY "Even"
+    ELSE:
+        DISPLAY "Odd"
+    END IF
+    END

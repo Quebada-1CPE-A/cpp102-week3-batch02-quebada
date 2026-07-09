@@ -1,0 +1,13 @@
+Step 1: Start.
+Step 2: Ask the user to enter the first item's price. Name it as "price1".
+Step 3: Ask the user to enter the first item's quantity. Name it as "quantity1".
+Step 4: Ask the user to enter the second item's price. Name it as "price2".
+Step 5: Ask the user to enter the second item's quantity. Name it as "quantity2".
+Step 6: Ask the user to enter the thrid item's price. Name it as "price3".
+Step 7: Ask the user to enter the third item's quantity. Name it as "quantity3".
+Step 8. Compute bill1 = price1 * quantity1.
+Step 9. Compute bill2 = price2 * quantity2.
+Step 10. Compute bill3 = price3 * quantity3.
+Step 11: Compute totalbill = bill1 + bill2 + bill3
+Step 12: Display totalbill
+Step 13: End.

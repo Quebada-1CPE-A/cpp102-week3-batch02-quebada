@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter their weekly budget. Name it as "weekbudg".
+Step 3: Ask the user to enter their total expenses. Name it as "totalexp".
+Step 4: To get remainingbalance, subtract weekbudg - totalxpns.
+Step 5: Display remainingbalance.
+Step 6: End.

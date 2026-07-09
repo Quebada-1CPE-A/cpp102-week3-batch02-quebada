@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter the total purchase amount. Name it as "totalpurc".
+Step 3: If totalpurc >= 1000, display "Eligible for Discount."
+Step 4: Else, display "Not Eligible for Discount."
+Step 5: End if.
+Step 6: End.

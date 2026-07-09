@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Ask the user to enter the raffle ticket number. Name it as "rafnum".
+Step 3: If rafnum is divisible by 2, display "Even"
+Step 4: Else, display "Odd"
+Step 5: End if.
+Step 6: End.

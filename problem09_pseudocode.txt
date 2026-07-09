@@ -1,0 +1,10 @@
+    START
+    INPUT accntbal
+    IF accntbal > 0:
+        DISPLAY "Positive Balance"
+    ELIF accntbal = 0:
+        DISPLAY "Zero Balance"
+    ELIF accntbal < 0:
+        DISPLAY "Negative Balance"
+    END IF
+    END
